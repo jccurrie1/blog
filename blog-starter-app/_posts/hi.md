@@ -1,6 +1,6 @@
 ---
 title: "Hello World!"
-excerpt: This is my first time ever creating a blog. I am not exactly sure why I am doing this but look forward to finding out along the way.
+excerpt: Hello and welcome to my blog, this is my first ever post and as such I intend this post to be an introduction about my intention of this space.
 coverImage: "/assets/blog/hello-world/coffee.jpg"
 date: "2025-04-06T23:44:15.020Z"
 author:
@@ -10,10 +10,4 @@ ogImage:
   url: "/assets/blog/preview/cover.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Hello and welcome to my blog, this is my first ever post and as such I intend this post to be an introduction about my intention of this space. There are many reason circling in my head as to why I created this blog. One such reason is to create a personal corner of the internet I can call mine. Another reason for creating my personal corner of the internet is down to the inspiration of [Josh Comeau](https://www.joshwcomeau.com/), [Julia Evans](https://jvns.ca/), and [Trevor Dick](https://www.canvasofthinking.com/). The people I have listed create content that in my opinion are possess traits of intentionality and full of quality that is rare to find on the internet. I also see creating a personal website as a right of passage given my professional trade of being a software developer. With all of that said, during the life of this blog I want to write about a series of topics such as tech, hobbies, and other personal interests. Writing to me is a way to expand and verify the things I have learned, and that seems like a worthy pursuit.
