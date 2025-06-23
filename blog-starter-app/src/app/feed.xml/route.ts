@@ -3,7 +3,7 @@ import { Feed } from "feed";
 
 export async function GET() {
   const posts = getAllPosts();
-  const siteURL = process.env.SITE_URL || "http://localhost:3000";
+  const siteURL = "https://jaredcurrie.com";
   const date = new Date();
   const author = {
     name: "Jared Currie",
