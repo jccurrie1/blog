@@ -31,7 +31,7 @@ const Alert = ({ preview }: Props) => {
             <>
               The source code for this blog is{" "}
               <a
-                href={`https://github.com/jccurrie1/nextjs-blog/tree/main/blog-starter-app`}
+                href={`https://github.com/jccurrie1/blog`}
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 available on GitHub
