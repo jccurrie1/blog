@@ -2,8 +2,8 @@ import Container from "@/app/_components/container";
 import GitHubIcon from "./_icons/github";
 import MailIcon from "./_icons/mail";
 import LinkedInIcon from "./_icons/linkedin";
-import SubstackIcon from "./_icons/substack";
 import { RSSIcon } from "./_icons/rss";
+import { SiSubstack } from "react-icons/si";
 
 export function Footer() {
   return (
@@ -39,7 +39,7 @@ export function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <SubstackIcon size={24} />
+              <SiSubstack size={24} />
             </a>
             <a
               href="/feed.xml"
