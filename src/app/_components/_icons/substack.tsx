@@ -15,17 +15,11 @@ const SubstackIcon: React.FC<SubstackIconProps> = ({
       width={size}
       height={size}
       viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
+      fill="currentColor"
       className={className}
       aria-hidden="true"
     >
-      <path d="M4 4h16" />
-      <path d="M4 8h16" />
-      <path d="M4 12l8 6 8-6" />
+      <path d="M22.539 8.242H1.46V5.406h21.08v2.836zM1.46 10.812V24l9.56-5.373L20.54 24V10.812H1.46zM22.54 0H1.46v2.836h21.08V0z" />
     </svg>
   );
 };
