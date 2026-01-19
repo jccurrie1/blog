@@ -2,6 +2,7 @@ import Container from "@/app/_components/container";
 import GitHubIcon from "./_icons/github";
 import MailIcon from "./_icons/mail";
 import LinkedInIcon from "./_icons/linkedin";
+import SubstackIcon from "./_icons/substack";
 import { RSSIcon } from "./_icons/rss";
 
 export function Footer() {
@@ -31,6 +32,14 @@ export function Footer() {
               rel="noopener noreferrer"
             >
               <LinkedInIcon size={24} />
+            </a>
+            <a
+              href="https://substack.com/@jaredcurrie"
+              className="text-neutral-500 hover:text-neutral-700 dark:text-neutral-400 dark:hover:text-neutral-200 transition-colors"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <SubstackIcon size={24} />
             </a>
             <a
               href="/feed.xml"
