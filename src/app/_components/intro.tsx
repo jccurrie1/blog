@@ -3,6 +3,7 @@ import GitHubIcon from "./_icons/github";
 import MailIcon from "./_icons/mail";
 import LinkedInIcon from "./_icons/linkedin";
 import { RSSIcon } from "./_icons/rss";
+import { SiSubstack } from "react-icons/si";
 
 export function Intro() {
   return (
@@ -19,6 +20,9 @@ export function Intro() {
         </Link>
         <Link href="https://www.linkedin.com/in/currieja/" className="mr-4">
           <LinkedInIcon size={32} />
+        </Link>
+        <Link href="https://substack.com/@jaredcurrie" className="mr-4">
+          <SiSubstack size={32} />
         </Link>
         <Link href="/feed.xml">
           <RSSIcon size={32} />
