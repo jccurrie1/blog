@@ -2,8 +2,10 @@ import Container from "@/app/_components/container";
 import GitHubIcon from "./_icons/github";
 import MailIcon from "./_icons/mail";
 import LinkedInIcon from "./_icons/linkedin";
+import CameraIcon from "./_icons/camera";
 import { RSSIcon } from "./_icons/rss";
 import { SiSubstack } from "react-icons/si";
+import Link from "next/link";
 
 export function Footer() {
   return (
@@ -41,6 +43,12 @@ export function Footer() {
             >
               <SiSubstack size={24} />
             </a>
+            <Link
+              href="/photos"
+              className="text-neutral-500 hover:text-neutral-700 dark:text-neutral-400 dark:hover:text-neutral-200 transition-colors"
+            >
+              <CameraIcon size={24} />
+            </Link>
             <a
               href="/feed.xml"
               className="text-neutral-500 hover:text-neutral-700 dark:text-neutral-400 dark:hover:text-neutral-200 transition-colors"
