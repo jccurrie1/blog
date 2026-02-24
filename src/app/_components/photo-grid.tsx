@@ -39,7 +39,11 @@ export function PhotoGrid({ photos }: Props) {
               src={photo.src}
               alt={photo.alt}
               fill
-              className="object-cover hover:scale-105 transition-transform duration-200"
+              className={`object-cover hover:scale-105 transition-transform duration-200 ${
+                photo.filename === "02-wood-coaster.jpeg"
+                  ? "rotate-45 scale-150"
+                  : ""
+              }`}
               sizes="(max-width: 768px) 50vw, 33vw"
             />
           </div>
