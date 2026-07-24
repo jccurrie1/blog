@@ -32,7 +32,7 @@ export function PhotoGrid({ photos }: Props) {
         {photos.map((photo, index) => (
           <div
             key={photo.filename}
-            className="aspect-square relative cursor-pointer overflow-hidden"
+            className="aspect-square relative cursor-pointer overflow-hidden rounded-[14px]"
             onClick={() => setSelectedIndex(index)}
           >
             <Image

@@ -91,7 +91,7 @@ export function PhotoModal({
           alt={photo.alt}
           width={1200}
           height={800}
-          className="max-w-full max-h-[90vh] w-auto h-auto object-contain"
+          className="max-w-full max-h-[90vh] w-auto h-auto rounded-[14px] object-contain"
           priority
         />
       </div>
